@@ -21,7 +21,7 @@
 <a href="http://youtube.programacion-cucei.club"><img src="https://github.com/Programacion-CUCEI/.github/raw/main/profile/res/iconos/youtube.png" alt="Enlace al canal de YouTube" width="50"></a>
 </div><br>
 
-<div id="quienes_somos"><img alt="<h1>¿Quiénes somos?</h1>" src="https://github.com/Programacion-CUCEI/.github/raw/main/profile/res/separadores/quienes_somos.jpg"></div>
+<div id="quienes_somos"><img alt="&lt;h1&gt;¿Quiénes somos?&lt;/h1&gt;" src="https://github.com/Programacion-CUCEI/.github/raw/main/profile/res/separadores/quienes_somos.jpg"></div>
 
 Somos un grupo de estudiantes los cuales tenemos el objetivo de **acercar la programación** a cualquiera que esté interesado en ella, brindándole **asesoría**, **cursos**, **talleres**, **actividades** y **oportunidades** para que puedan complementar su **formación profesional**. 💼
 
