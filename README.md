@@ -1,0 +1,3 @@
+# Repositorio de plantillas, readme del perfil y demás
+
+Bienvenido al repositorio `.github` del club! Este tipo de repositorios sirve como base para incluir plantillas (de _issues_ y _pull requests_, por ejemplo) así como el readme del perfil en el caso de las organizaciones. Si quieres aprender más de cómo funciona este repositorio te invitamos a leer [este artículo](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file#creating-a-repository-for-default-files).
