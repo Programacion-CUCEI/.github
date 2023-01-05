@@ -1,11 +1,11 @@
 <!-- Es necesario incluir las imágenes de esta manera para que se visualicen correctamente en todos lados -->
 <div id="inicio"><img alt='Letrero de "¡Bienvenidx a nuestro GitHub!" con los logos del club de programación CUCEI y el de Acción U' src="https://github.com/Programacion-CUCEI/.github/raw/main/profile/res/separadores/header.gif"></div>
 
-¡Nosotros somos el club de programación del **Centro Universitario de Ciencias Exactas e Ingenierías** de la **Universidad de Guadalajara**! 🦁💻💜
+<h3 align="center">¡Nosotros somos el club de programación del Centro Universitario de Ciencias Exactas e Ingenierías de la Universidad de Guadalajara! 🦁💻💜</h3><br>
 
 <div align="center"><pre>
 <i>"Dale a la gente herramientas maravillosas y ellxs harán cosas maravillosas"</i><br>
-- Apple/Steve Jobs</pre></div>
+- Apple/Steve Jobs</pre></div><br>
 
 ¡Bienvenidx a nuestra **organización de GitHub**! Aquí podrás encontrar **información sobre nosotrxs**, nuestras **redes sociales**, nuestro repertorio de **cursos**, el código de nuestros **proyectos** (*we* ❤️ *open source*) y **más**!
 
@@ -85,4 +85,4 @@ Tenemos la fuerte creencia que **todos pueden ser excelentes programadores**, po
 </table>
 <div id="agradecimientos_especiales"><img alt='System.out.println("Agradecimientos especiales");' src="https://github.com/Programacion-CUCEI/.github/raw/main/profile/res/separadores/agradecimientos_especiales.jpg"></div>
 
-Este es un apartado **especial** para las personas que han ayudado a que el club sea lo que es hoy. Sin su apoyo es probable que no nos encontremos donde estamos ahora. 🥹💜
+Este es un apartado **especial** para las personas que han ayudado a que el club sea lo que es hoy. Sin su apoyo es probable que no nos encontraríamos donde estamos ahora. 🥹💜
